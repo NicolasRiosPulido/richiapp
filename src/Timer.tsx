@@ -31,7 +31,7 @@ function Timer() {
 
   return (
     <>
-      <h1 className="mb-4">Countdown to June 11</h1>
+      <h1 className="mb-4">Le quedan</h1>
       <p>{timeLeft}</p>
     </>
   );
